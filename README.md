@@ -1,7 +1,3 @@
-Claro! Aqui está o README que você pode copiar para o seu projeto:
-
----
-
 ```markdown
 # Projeto React com Vite, Tailwind CSS e JSON Server
 
@@ -71,6 +67,3 @@ Certifique-se de ter o Node.js e npm (ou yarn) instalados na sua máquina.
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
-```
-
----
