@@ -1,4 +1,8 @@
 ```markdown
+# Obetivo do Projeto
+Identificar produtos do Inbound que estão perto do vencimento, pintando de vermelho o produto que irá vender no dia ou ja está vencido, de amarecelo o produto que irá vencer em no maximo 3 dias e verde o produto que tem mais de 3 dias para vencer.
+
+
 # Projeto React com Vite, Tailwind CSS e JSON Server
 
 Este projeto é uma aplicação React desenvolvida utilizando Vite como bundler e Tailwind CSS para estilização. Ele inclui um CRUD básico integrado com um servidor JSON para manipulação de dados.
