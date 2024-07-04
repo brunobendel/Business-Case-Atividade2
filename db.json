@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": "4506",
+      "codigo": "teste",
+      "descricao": "teste",
+      "quantidade": 10,
+      "dataVencimento": "2024-07-25"
+    },
+    {
+      "id": "f770",
+      "codigo": "teste",
+      "descricao": "vermelho",
+      "quantidade": 1,
+      "dataVencimento": "2024-07-04"
+    },
+    {
+      "id": "500b",
+      "codigo": "teste 2",
+      "descricao": "amarelo",
+      "quantidade": 4,
+      "dataVencimento": "2024-07-07"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.link {
+  @apply text-white no-underline;
+}
+
+.close {
+  @apply absolute top-2 right-4 text-lg cursor-pointer;
+}
+
+.content {
+  @apply flex flex-col  text-white bg-gray-800 sm:flex-row justify-center h-screen mt-16 w-screen;
+}
+
+
+/* Adicionando alguns ajustes específicos para breakpoints */
+@screen sm {
+  .header {
+    @apply py-6;
+  }
+
+  .aside {
+    @apply gap-4;
+  }
+
+  .content {
+    @apply p-6;
+  }
+}
+
+@screen md {
+  .header {
+    @apply py-8;
+  }
+
+  .aside {
+    @apply gap-6;
+  }
+
+  .content {
+    @apply p-8;
+  }
+}
